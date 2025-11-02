@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hotel>
+    <Hotel Rating="4.2">
+        <Name>Westin</Name>
+        <Phone>480-968-8885</Phone>
+        <Address>
+            <Number>11</Number>
+            <Street>E.7th St</Street>
+            <City>Tempe</City>
+            <State>AZ</State>
+            <ZipCode>85281</ZipCode>
+        </Address>
+    </Hotel>
+
+    <Hotel>
+        <Name>French Quarter Inn</Name>
+        <Address NearestAirport="CHS">
+            <Number>166</Number>
+            <Street>Church Street</Street>
+            <City>Charleston</City>
+            <State>SC</State>
+            <ZipCode>29401</ZipCode>
+        </Address>
+    </Hotel>
+
+    <Hotel Rating="4.9">
+        <Name>Atticus Hotel</Name>
+        <Phone>503-470-6837</Phone>
+        <Address NearestAirport="KMMV">
+            <Number>375</Number>
+            <Street>NE Ford Street</Street>
+            <City>McMinnville</City>
+            <State>OR</State>
+            <ZipCode>97128</ZipCode>
+
+    </Hotel>
+
+    <Hotel Rating="4.8">
+        <Name>Hotel Drisco Pacific Heights</Name>
+        <Name>Hotel Drisco 2</Name>
+        <Phone>415-301-3710</Phone>
+        <Phone>415-346-2880</Phone>
+        <Address NearestAirport="SFO">
+            <Number>2901</Number>
+            <Street>Pacific Avenue</Street>
+            <City>San Francisco</City>
+            <State>CA</State>
+            <ZipCode>94115</ZipCode>
+        </Address>
+    </Hotel>
+
+    <Hotel>
+        <Name>LUMA Hotel Times Square</Name>
+        <Phone>646-941-8229</Phone>
+        <Address NearestAirport="LGA">
+            <Number>120</Number>
+            <Street>West 41st Street</Street>
+            <City>New York City</City>
+            <State>NY</State>
+            <ZipCode>10036</ZipCode>
+        </Address>
+    </Hotel>
+
+    <Hotel Rating="4.7">
+        <Name>The Godfrey Hotel Boston</Name>
+        <Phone>617-804-3331</Phone>
+        <Address NearestAirport="BOS">
+            <Number>505</Number>
+            <Street>Washington St.</Street>
+            <City>Boston</City>
+            <State>MA</State>
+            <ZipCode>02111</ZipCode>
+        </Address>
+    </Hotel>
+
+    <Hotel Rating="4.9">
+        <Name>Hotel Emma</Name>
+        <Phone>210-880-3040</Phone>
+        <Address NearestAirport="SAT">
+            <Number>136</Number>
+            <Street>E Grayson St</Street>
+            <City>San Antonio</City>
+            <State>TX</State>
+            <ZipCode>78215</ZipCode>
+        </Address>
+    </Hotel>
+
+    <Hotel>
+        <Name>The Evelyn Hotel</Name>
+        <Phone>855-211-8647</Phone>
+        <Address NearestAirport="LGA">
+            <Number>7</Number>
+            <Street>E 27th St</Street>
+            <City>New York City</City>
+            <State>NY</State>
+            <ZipCode>10016</ZipCode>
+        </Address>
+    </Hotel>
+
+    <Hotel Rating="4.9">
+        <Name>Oxford Hotel Bend</Name>
+        <Phone>541-382-8436</Phone>
+        <Address NearestAirport="RDM">
+            <Number>10</Number>
+            <Street>NW Minnesota Ave</Street>
+            <City>Bend</City>
+            <State>OR</State>
+            <ZipCode>97703</ZipCode>
+        </Address>
+    </Hotel>
+
+    <Hotel Rating="4.8">
+        <Name>The Wallace</Name>
+        <Phone>844-422-4132</Phone>
+        <Phone>212-362-1006</Phone>
+        <Address NearestAirport="LGA">
+            <Number>242</Number>
+            <Street>West 76th Street</Street>
+            <City>New York City</City>
+            <State>NY</State>
+            <ZipCode>10023</ZipCode>
+        </Address>
+    </Hotel>
+
+    <Hotel Rating="4.8">
+        <Name>Park Terrace Hotel</Name>
+        <Phone>516-596-8545</Phone>
+        <Address NearestAirport="LGA">
+            <Number>18</Number>
+            <Street>W 40th Street</Street>
+            <City>New York City</City>
+            <State>NY</State>
+            <ZipCode>10018</ZipCode>
+        </Address>
+    </Hotel>
+
+</Hotels>
